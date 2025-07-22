@@ -1,0 +1,247 @@
+[
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ART_0005.jpg",
+    "objects": [
+      {
+        "class": "artificial reef",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ART_0005_obj0_artificial reef_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ART_0005_obj0_artificial reef_rgb_mask.png"
+      },
+      {
+        "class": "artificial reef",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ART_0005_obj1_artificial reef_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ART_0005_obj1_artificial reef_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ART_0030.jpg",
+    "objects": [
+      {
+        "class": "artificial reef",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ART_0030_obj0_artificial reef_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ART_0030_obj0_artificial reef_rgb_mask.png"
+      },
+      {
+        "class": "artificial reef",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ART_0030_obj1_artificial reef_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ART_0030_obj1_artificial reef_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0004.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0004_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0004_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0014.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0014_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0014_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0027.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0027_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0027_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0108.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0108_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0108_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0109.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0109_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0109_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0123.jpg",
+    "objects": [],
+    "status": "undetected"
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0140.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0140_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0140_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0152.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0152_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0152_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0159.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0159_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0159_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_ETC_0293.jpg",
+    "objects": [
+      {
+        "class": "etc",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0293_obj0_etc_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0293_obj0_etc_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\images\\JWD_202404_FIN_0018.jpg",
+    "objects": [
+      {
+        "class": "fish_net",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_FIN_0018_obj0_fish_net_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_FIN_0018_obj0_fish_net_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "1_(255, 0, 255)",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715142531_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715142531_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "1_(255, 0, 255)",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715142548_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715142548_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "1_(255, 0, 255)",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715142907_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715142907_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715145239_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715145239_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715145243_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715145243_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715145243_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715145243_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715145244_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715145244_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ANK_0008.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ANK_0008_20250715145244_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ANK_0008_20250715145244_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ETC_0027.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0027_20250715145354_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0027_20250715145354_rgb_mask.png"
+      }
+    ]
+  },
+  {
+    "image": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\images\\JWD_202404_ETC_0027.jpg",
+    "objects": [
+      {
+        "class": "unknown",
+        "mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\mask\\JWD_202404_ETC_0027_20250715145359_mask.png",
+        "rgb_mask_path": "D:\\2024_sonar_detection\\sonar_synthetic_image\\labeling_tool\\mask_output_result_tool\\RGB\\JWD_202404_ETC_0027_20250715145359_rgb_mask.png"
+      }
+    ]
+  }
+]
